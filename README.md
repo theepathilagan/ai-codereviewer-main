@@ -69,3 +69,4 @@ Let the maintainer generate the final package (`yarn build` & `yarn package`).
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 # Test de changement après ajout du dépôt distant
+# Test de changement après ajout du dépôt distant
